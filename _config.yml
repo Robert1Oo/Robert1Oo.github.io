@@ -5,3 +5,7 @@ email: oo.robert@yahoo.com
 theme: minima  # Theme applied to the site
 baseurl: ""    # user site
 url: "https://robert1oo.github.io"  # URL of my GitHub Pages site
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
