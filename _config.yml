@@ -2,15 +2,12 @@ title: About me
 description: My personal profile
 author: Roberto N.
 email: oo.robert@yahoo.com
-theme: minima  # Using the Minima theme
+theme: hacker  # the Hacker theme
 baseurl: ""    # User site
 url: "https://robert1oo.github.io"  # URL of my GitHub Pages site
-
-# Enable dark mode for the Minima theme
-minima:
-  skin: dark
 
 # Plugins to enhance the site
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
