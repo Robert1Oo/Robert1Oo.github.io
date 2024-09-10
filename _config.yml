@@ -1,0 +1,7 @@
+title: About Roberto
+description: This is my personal portfolio powered by Jekyll.
+author: Roberto N.
+email: oo.robert@yahoo.com
+theme: minima  # Theme applied to the site
+baseurl: ""    # user site
+url: "https://robert1oo.github.io"  # URL of my GitHub Pages site
