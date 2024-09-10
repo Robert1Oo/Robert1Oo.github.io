@@ -2,7 +2,7 @@ title: About me
 description: My personal profile
 author: Roberto N.
 email: oo.robert@yahoo.com
-theme: hacker  # the Hacker theme
+theme: pages-themes/hacker@v0.2.0  # the Hacker theme
 baseurl: ""    # User site
 url: "https://robert1oo.github.io"  # URL of my GitHub Pages site
 
