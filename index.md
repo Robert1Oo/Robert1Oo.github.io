@@ -5,8 +5,7 @@ title: Welcome to My Portfolio
 
 # I'm Roberto! 👋
 
-I'm a passionate Mechatronics Engineer with a focus on DevOps Engineering. Welcome to my GitHub profile!
-I'm currently learning how to use tools like Ansible, Terraform, Kubernetes, Docker, and GitHub Actions to create scalable and reliable infrastructure.
+I'm a passionate Mechatronics Engineer with a focus on DevOps Engineering. I'm currently learning how to use tools like Ansible, Terraform, Kubernetes, Docker, and GitHub Actions to create scalable and reliable infrastructure.
 
 ## 🚀 Skills and Tools
 - **Languages**: Python, C/C++, Bash.
@@ -18,7 +17,7 @@ I'm currently learning how to use tools like Ansible, Terraform, Kubernetes, Doc
 - **Version Control**: Git, GitHub
 
 ## 🌟 Featured Projects
-Here are some of my recent projects that showcase my skills:
+Here are some of my recent projects:
 
 ### [DevOps Automation with Terraform & Ansible](https://github.com/robert1oo/devops)
 A complete DevOps project automating the provisioning of AWS infrastructure and deployment of a Flask web application using Terraform and Ansible.
@@ -29,6 +28,6 @@ Key features include:
 
 
 
-## 📫 Get in Touch
+## 💐 Get in Touch
 - Email: oo.robert@yahoo.com
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/robert1oo)
