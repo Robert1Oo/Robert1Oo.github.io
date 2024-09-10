@@ -3,27 +3,32 @@ layout: default
 title: Welcome to My Portfolio
 ---
 
-# Hello, I'm Roberto N. 👋
+# I'm Roberto! 👋
 
-Welcome to my portfolio! I'm a **DevOps Engineer** with a passion for automation. I currently learn how to use tools like Ansible, Terraform, Kubernetes, Docker, and GitHub Actions to create scalable and reliable infrastructure.
+I'm a passionate Mechatronics Engineer with a focus on DevOps Engineering. Welcome to my GitHub profile!
+I'm currently learning how to use tools like Ansible, Terraform, Kubernetes, Docker, and GitHub Actions to create scalable and reliable infrastructure.
 
-Below, you'll find some of the projects I’ve worked on, showcasing my expertise in building and deploying applications efficiently.
-
-## 🛠️ Key Skills
+## 🚀 Skills and Tools
+- **Languages**: Python, C/C++, Bash.
+- **Operating Systems**: Linux (Void, Ubuntu).
 - **Automation & Configuration Management**: Ansible, Terraform
 - **Containerization & Orchestration**: Docker, Kubernetes
 - **Cloud Platforms**: AWS (EC2, S3, Lambda)
 - **CI/CD Pipelines**: GitHub Actions, Jenkins
 - **Version Control**: Git, GitHub
 
-## 📂 Projects
+## 🌟 Featured Projects
+Here are some of my recent projects that showcase my skills:
 
 ### [DevOps Automation with Terraform & Ansible](https://github.com/robert1oo/devops)
-A complete DevOps project automating the provisioning of AWS infrastructure and deployment of a Flask web application using Terraform and Ansible. Key features include:
+A complete DevOps project automating the provisioning of AWS infrastructure and deployment of a Flask web application using Terraform and Ansible.
+Key features include:
 - Automated EC2 instance provisioning and configuration.
 - Deployment of Docker containers running Flask.
 - CI/CD pipeline setup with GitHub Actions for automated testing and deployment.
 
 
-## 🎯 Get in Touch
-If you're interested in learning more about my work, feel free to check out my projects or reach out via email: [oo.robert@yahoo.com](mailto:oo.robert@yahoo.com).
+
+## 📫 Get in Touch
+- Email: oo.robert@yahoo.com
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/robert1oo)
